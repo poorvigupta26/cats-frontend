@@ -6,3 +6,4 @@ Note:- Backend for this can be found on my github
 
 The frontend:
 
+[screen-capture (2).webm](https://github.com/user-attachments/assets/acb131e7-fc50-4117-b69f-28005afc3682)
